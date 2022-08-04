@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Made with 💜 and Quarto, by DATAINPOINT, Inc."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nMade with 💜 and Quarto, by DATAINPOINT, Inc."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "數聚點",
+    "section": "",
+    "text": "數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過五十道練習或 50+ 練習的 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。\nMade with 💜 and Quarto, by DATAINPOINT, Inc."
+  },
+  {
+    "objectID": "index.html#hahow-好學校系列課程",
+    "href": "index.html#hahow-好學校系列課程",
+    "title": "數聚點",
+    "section": "Hahow 好學校系列課程",
+    "text": "Hahow 好學校系列課程\n\n資料分析的基石\n\n如何成為資料分析師\nSQL 的五十道練習\nPython 的 50+ 練習\nR 語言的 50+ 練習…Coming soon!\n\n資料分析的進階\n\n機器學習的五十道練習…Coming soon!\n機率與統計的五十道練習…Coming soon!"
+  },
+  {
+    "objectID": "index.html#電子報約維安計畫-project-jovyan",
+    "href": "index.html#電子報約維安計畫-project-jovyan",
+    "title": "數聚點",
+    "section": "電子報：約維安計畫 Project Jovyan",
+    "text": "電子報：約維安計畫 Project Jovyan\n約維安（Jovyan）是一個名詞，意指在虛構的 Jupyter 星球上分析資料與撰寫程式的住民，講白話文，就是擅長以程式處理資料的分析師（The programming analysts），或者擅長分析資料的程式設計師（The analytic programmers）。\n詳情參閱：https://datainpoint.substack.com/about"
+  },
+  {
+    "objectID": "index.html#medium-部落格",
+    "href": "index.html#medium-部落格",
+    "title": "數聚點",
+    "section": "Medium 部落格",
+    "text": "Medium 部落格\n前往 Medium 閱讀我早期撰寫的教學文章：https://medium.com/datainpoint"
+  },
+  {
+    "objectID": "index.html#quarto-部落格",
+    "href": "index.html#quarto-部落格",
+    "title": "數聚點",
+    "section": "Quarto 部落格",
+    "text": "Quarto 部落格\n利用 Quarto 寫作的部落格…Coming soon!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "關於",
+    "section": "",
+    "text": "我是郭耀仁，是一位資料分析師、也是資料科學的專業講師，畢業自台灣大學商學研究所，現於台大工商管理學系與台大共同教育中心兼任講師；在台大資工系統訓練班與中華電信學院講授資料科學課程。在專業講師之前任職過電商資料分析師、軟體公司資料分析顧問、銀行儲備幹部與管顧實習生，閒暇時喜歡長跑與寫作。\nMade with 💜 and Quarto, by DATAINPOINT, Inc."
+  },
+  {
+    "objectID": "about.html#工作經歷",
+    "href": "about.html#工作經歷",
+    "title": "關於",
+    "section": "工作經歷",
+    "text": "工作經歷\n\n兼任講師 | 台灣大學工商管理學系、共同教育中心\n資深資料分析師 | Coupang 韓領網路科技\n分析顧問 | 台灣賽仕電腦軟體\n儲備幹部 | 中國信託商業銀行\n研究助理 | 台灣麥肯錫"
+  },
+  {
+    "objectID": "about.html#學歷",
+    "href": "about.html#學歷",
+    "title": "關於",
+    "section": "學歷",
+    "text": "學歷\n\n台灣大學商學研究所\n台灣大學工商管理學系"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Quarto 部落格",
+    "section": "",
+    "text": "Made with 💜 and Quarto, by DATAINPOINT, Inc."
+  }
+]
