@@ -1,0 +1,39 @@
+---
+title: "數聚點"
+description: "透過練習學會程式設計與資料分析"
+page-layout: full
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過五十道練習或 50+ 練習的 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。
+
+- 個人服務：以 Hahow 好學校系列課程、電子報與部落格提供全面性的學習支援；
+- 企業服務：提供客製的企業內訓資料科學工作坊，服務客戶包含 Line 台灣（2021）、星展商業銀行（2020）、和鼎資產管理股份有限公司（2020）、華南商業銀行（2019）與玉山商業銀行（2017）等。
+
+## Hahow 好學校系列課程
+
+- 資料分析的基石
+  - [如何成為資料分析師](https://hahow.in/cr/dajourney)
+  - [SQL 的五十道練習](https://hahow.in/cr/sqlfifty)
+  - [Python 的 50+ 練習](https://hahow.in/cr/pythonfiftyplus)
+  - R 語言的 50+ 練習...Coming soon!
+- 資料分析的進階
+  - 機器學習的五十道練習...Coming soon!
+  - 機率與統計的五十道練習...Coming soon!
+  
+## 電子報：約維安計畫 Project Jovyan
+
+約維安（Jovyan）是一個名詞，意指在虛構的 Jupyter 星球上分析資料與撰寫程式的住民，講白話文，就是擅長以程式處理資料的分析師（The programming analysts），或者擅長分析資料的程式設計師（The analytic programmers）。
+
+詳情參閱：<https://datainpoint.substack.com/about>
+
+## Medium 部落格
+
+前往 Medium 閱讀我早期撰寫的教學文章：<https://medium.com/datainpoint>
+
+## Quarto 部落格
+
+利用 [Quarto](https://quarto.org/) 寫作的[部落格](blog.qmd)...Coming soon!

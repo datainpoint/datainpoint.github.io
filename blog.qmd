@@ -1,0 +1,8 @@
+---
+title: "Quarto 部落格"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
