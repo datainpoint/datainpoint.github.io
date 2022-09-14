@@ -8,7 +8,7 @@ format:
     link-external-newwindow: true
 ---
 
-數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過五十道練習或 50+ 練習的 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。
+數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。
 
 - 個人服務：以 Hahow 好學校系列課程、電子報與部落格提供全面性的學習支援；
 - 企業服務：提供客製的企業內訓資料科學工作坊，服務客戶包含 Line 台灣（2021）、星展商業銀行（2020）、和鼎資產管理股份有限公司（2020）、華南商業銀行（2019）與玉山商業銀行（2017）等。
@@ -19,7 +19,7 @@ format:
   - [如何成為資料分析師](https://hahow.in/cr/dajourney)
   - [SQL 的五十道練習](https://hahow.in/cr/sqlfifty)
   - [Python 的 50+ 練習](https://hahow.in/cr/pythonfiftyplus)
-  - R 語言的 50+ 練習...Coming soon!
+  - [R 語言的 50+ 練習](https://hahow.in/cr/rfiftyplus)
 - 資料分析的進階
   - 機器學習的五十道練習...Coming soon!
   - 機率與統計的五十道練習...Coming soon!
