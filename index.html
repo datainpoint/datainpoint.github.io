@@ -133,7 +133,7 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過五十道練習或 50+ 練習的 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。</p>
+<p>數聚點（DATAINPOINT, Inc.）是一所提倡以練習題為主的方式來學習程式設計與資料分析的教學機構，由郭耀仁創立，透過 Exercise-based learning 系統化學習方式，提供個人服務以及企業服務。</p>
 <ul>
 <li>個人服務：以 Hahow 好學校系列課程、電子報與部落格提供全面性的學習支援；</li>
 <li>企業服務：提供客製的企業內訓資料科學工作坊，服務客戶包含 Line 台灣（2021）、星展商業銀行（2020）、和鼎資產管理股份有限公司（2020）、華南商業銀行（2019）與玉山商業銀行（2017）等。</li>
@@ -146,7 +146,7 @@ ul.task-list{list-style: none;}
 <li><a href="https://hahow.in/cr/dajourney">如何成為資料分析師</a></li>
 <li><a href="https://hahow.in/cr/sqlfifty">SQL 的五十道練習</a></li>
 <li><a href="https://hahow.in/cr/pythonfiftyplus">Python 的 50+ 練習</a></li>
-<li>R 語言的 50+ 練習…Coming soon!</li>
+<li><a href="https://hahow.in/cr/rfiftyplus">R 語言的 50+ 練習</a></li>
 </ul></li>
 <li>資料分析的進階
 <ul>
@@ -268,7 +268,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     });
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp(/https:\/\/datainpoint\.github\.io\//);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

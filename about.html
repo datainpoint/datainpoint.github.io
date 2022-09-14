@@ -58,7 +58,7 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="數聚點 - 關於">
 <meta name="twitter:description" content="我是郭耀仁，是一位資料分析師、也是資料科學的專業講師，畢業自台灣大學商學研究所，現於台大工商管理學系與台大共同教育中心兼任講師；在台大資工系統訓練班與中華電信學院講授資料科學課程。在專業講師之前任職過電商資料分析師、軟體公司資料分析顧問、銀行儲備幹部與管顧實習生，閒暇時喜歡長跑與寫作。">
-<meta name="twitter:image" content="yaojenkuo-profile-photo-csietrain.jpg">
+<meta name="twitter:image" content="https://datainpoint.github.io/yaojenkuo-profile-photo-csietrain.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -240,7 +240,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     });
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp(/https:\/\/datainpoint\.github\.io\//);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
